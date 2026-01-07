@@ -11,7 +11,7 @@ Aqui no meu GitHub compartilho projetos práticos enquanto evoluo todos os dias.
 
 ### 🛠️ O que você vai encontrar por aqui
 - Projetos simples e funcionais  
-- Análises feitos do zero  
+- Análises feita do zero  
 - Dashboards e exercícios práticos  
 - Minha evolução real, passo a passo  
 
